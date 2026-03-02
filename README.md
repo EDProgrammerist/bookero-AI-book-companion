@@ -153,5 +153,5 @@ detailed explanations, cool features, and exercises to boost your skills. Give i
 
 <a href="https://jsm.dev/books-jsm" target="_blank">
   <img src="public/readme/readme-jsmpro.webp" alt="Project Banner">
-  <img src="" alt="Copyright">
+  <img src="https://github.com/EDProgrammerist/bookero-AI-book-companion/blob/master/public/readme/channels4_banner.jpg?raw=true" alt="Copyright">
 </a>
