@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="" target="_blank">
-      <img src="[public/readme/readme-hero-new.webp](https://github.com/EDProgrammerist/bookero-AI-book-companion/blob/master/public/readme/update.png?raw=true)" alt="Project Banner">
+      <img src="https://github.com/EDProgrammerist/bookero-AI-book-companion/blob/master/public/readme/update.png?raw=true" alt="Project Banner">
       <img src="" alt="Project Banner">
     </a>
   <br />
